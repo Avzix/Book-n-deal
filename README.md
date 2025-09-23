@@ -2,13 +2,13 @@
 
 ## Index
 
-- [1. Introduction](#1-introducción)
-- [2. Team](#2-equipo--roles)
-- [3. Strategy](#3-estrategia)
+- [1. Introduction](#1-introduction)
+- [2. Team](#2-team)
+- [3. Strategy](#3-strategy)
   - [3.1. Value Proposition Canvas](#31-canvas-de-propuesta-de-valor)
   - [3.2. UIX Persona](#32-personas-ux)
   - [3.3. Benchmarking](#33-benchmarking)
-- [4. Scope](#4-alcance)
+- [4. Scope](#4-scope)
 
 
 ## 1. Introduction
@@ -21,7 +21,7 @@ Diego Beñaldo - Promp engineer
 
 Yoandri Villarroel - Analyst
 
-## 3. Estrategia
+## 3. Strategy
 ### 3.1. Value Proposition Canvas
 ![Value proposition canvas](https://github.com/user-attachments/assets/3e7315c0-5477-4487-bae0-8357b61a6eb5)
 

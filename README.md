@@ -5,11 +5,11 @@
 - [1. Introduction](#1-introduction)
 - [2. Team](#2-team)
 - [3. Strategy](#3-strategy)
-  - [3.1. Value Proposition Canvas](#31-canvas-de-propuesta-de-valor)
+  - [3.1. Value Proposition Canvas](#31-value-proposition-canvas)
   - [3.2. UIX Persona](#32-personas-ux)
   - [3.3. Benchmarking](#33-benchmarking)
 - [4. Scope](#4-scope)
-  - [4.1. Customer Journy Map](#32-customer-journy-map)
+  - [4.1. Customer Journy Map](#41-customer-journy-map)
 
 ## 1. Introduction
 

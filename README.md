@@ -9,7 +9,7 @@
   - [3.2. UIX Persona](#32-personas-ux)
   - [3.3. Benchmarking](#33-benchmarking)
 - [4. Scope](#4-scope)
-
+  - [4.1. Customer Journy Map](#32-customer-journy-map)
 
 ## 1. Introduction
 

@@ -6,7 +6,7 @@
 - [2. Team](#2-team)
 - [3. Strategy](#3-strategy)
   - [3.1. Value Proposition Canvas](#31-value-proposition-canvas)
-  - [3.2. UIX Persona](#32-personas-ux)
+  - [3.2. UIX Persona](#32-uix-persona)
   - [3.3. Benchmarking](#33-benchmarking)
 - [4. Scope](#4-scope)
   - [4.1. Customer Journy Map](#41-customer-journy-map)

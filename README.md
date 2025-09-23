@@ -8,6 +8,7 @@
   - [3.1. Value Proposition Canvas](#31-canvas-de-propuesta-de-valor)
   - [3.2. UIX Persona](#32-personas-ux)
   - [3.3. Benchmarking](#33-benchmarking)
+- [4. Scope](#4-alcance)
 
 
 ## 1. Introduction
@@ -28,3 +29,7 @@ Yoandri Villarroel - Analyst
 
 ### 3.3. Benchmarking
 ![Benchmark](https://github.com/user-attachments/assets/22d3848d-5a81-4a6a-a3f1-291e67fefaff)
+
+## 4. Scope
+### 4.1. Customer Journy Map
+![Diagrama flujo](https://github.com/user-attachments/assets/b1cd6868-5bb6-49e0-a4ea-050b0452e260)

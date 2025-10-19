@@ -51,6 +51,10 @@ creating a meaningful experience that goes beyond a simple exchange platform.
 <img width="1920" height="1080" alt="persona2" src="https://github.com/user-attachments/assets/6b104630-a10b-434e-8255-2bb1c9700849" />
 <img width="1920" height="1080" alt="persona3" src="https://github.com/user-attachments/assets/efc5a012-41cd-47d8-9303-b68f063fa113" />
 
+UX Personas allow us to understand the needs, goals, and frustrations of our users. By visualizing these profiles, 
+we can make informed design decisions, prioritize key features, and create an experience that is intuitive, 
+engaging, and truly user-centered.
+
 ### 3.3. Benchmarking
 ![Benchmark](https://github.com/user-attachments/assets/22d3848d-5a81-4a6a-a3f1-291e67fefaff)
 

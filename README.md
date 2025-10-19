@@ -39,6 +39,13 @@ Book’n Deal is a mobile application designed to facilitate the exchange and do
 ### 3.1. Value Proposition Canvas
 ![Value proposition canvas](https://github.com/user-attachments/assets/3e7315c0-5477-4487-bae0-8357b61a6eb5)
 
+The Value Proposition Canvas served as a key tool to align our understanding of users with the project’s objectives.
+It helped visualize what users truly value — not only functional benefits such as easily obtaining books, 
+but also emotional aspects like belonging to a community and contributing to sustainability.
+This process revealed that users are motivated by collaboration and shared learning, not just by economic savings.
+As a result, the app’s value proposition focuses on connection, accessibility, and environmental impact, 
+creating a meaningful experience that goes beyond a simple exchange platform.
+
 ### 3.2. UIX Persona
 <img width="1920" height="1080" alt="persona1" src="https://github.com/user-attachments/assets/7ab204ad-ae0e-40d2-80e9-9fc36f0aba91" />
 <img width="1920" height="1080" alt="persona2" src="https://github.com/user-attachments/assets/6b104630-a10b-434e-8255-2bb1c9700849" />

@@ -11,7 +11,7 @@ UX project carried out by UFRO students
   - [3.2. UIX Persona](#32-uix-persona)
   - [3.3. Benchmarking](#33-benchmarking)
 - [4. Scope](#4-scope)
-  - [4.1. Customer Journy Map](#41-customer-journy-map)
+  - [4.1. Customer Journey Map](#41-customer-journey-map)
 - [5. Structure](#5-structure)
   - [5.1. Navigation Flow](#51-navigation-flow)
 - [6. Skeleton](#6-skeleton)
@@ -44,7 +44,7 @@ This process revealed that users are motivated by collaboration and shared learn
 As a result, the app’s value proposition focuses on connection, accessibility, and environmental impact, 
 creating a meaningful experience that goes beyond a simple exchange platform.
 
-![Value proposition canvas](https://github.com/user-attachments/assets/3e7315c0-5477-4487-bae0-8357b61a6eb5)
+![Value proposition canvas](https://github.com/user-attachments/assets/1b5dedb5-8c62-4fc0-a004-c3cf4fee1dbb)
 
 ### 3.2. UIX Persona
 UX Personas allow us to understand the needs, goals, and frustrations of our users. By visualizing these profiles, 
@@ -66,7 +66,8 @@ needs of readers, students, and teachers looking to exchange or donate books.
 ### 4.1. Customer Journey Map
 The customer journey map illustrates how users experience the platform at each stage, from discovering it for the first time to becoming engaged community members. 
 By mapping customer actions, channels, pain points, opportunities, and emotions, it guides improvements and helps deliver a valuable and engaging journey, encouraging users to return and promote the app.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8533566a-2ec5-436d-8a4f-674bf7736482" />
+
+![Customer Journey Map](https://github.com/user-attachments/assets/4dd6ac50-c1da-4f09-b0e3-abffd766452f)
 
 
 ## 5. Structure

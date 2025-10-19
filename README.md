@@ -63,7 +63,9 @@ needs of readers, students, and teachers looking to exchange or donate books.
 ![Benchmark](https://github.com/user-attachments/assets/22d3848d-5a81-4a6a-a3f1-291e67fefaff)
 
 ## 4. Scope
-### 4.1. Customer Journy Map
+### 4.1. Customer Journey Map
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8533566a-2ec5-436d-8a4f-674bf7736482" />
+
 
 ## 5. Structure
 ### 5.1. Navigation Flow

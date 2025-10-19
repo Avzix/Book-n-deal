@@ -99,6 +99,11 @@ A workspace containing the full set of low-fidelity wireframes is available, sho
 
 ## 7. Surface
 ### 7.1. Interface Evolution
+The interface evolution process for Book 'n Deal involved key modifications to streamline user experience and align with the core goals of the app. Initially, interfaces included a registration and login flow. However, during the design refinement, the registration process was simplified to reduce friction and encourage faster onboarding, reflecting feedback that complicated sign-ups discourage users.  
+
+<img width="1665" height="956" alt="Sin título" src="https://github.com/user-attachments/assets/9d1e303d-b902-43d8-9502-fd92ab0834be" />
+
+
 ### 7.2. High Definition Interfaces
 
 📄[Hi-Fi Interfaces - Book 'n deal (PDF)](https://github.com/user-attachments/files/22993228/Mockup.pdf)

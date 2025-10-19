@@ -12,6 +12,15 @@
 
 ## 1. Introduction
 
+This project presents a user-centered design proposal for a digital platform
+that enables the exchange and donation of used books. The initiative aims to 
+promote reading, equitable access to knowledge, and the reuse of resources
+by connecting readers, students, and educational communities in a 
+collaborative environment.
+The development focuses on understanding real user needs, defining a clear
+value proposition, and creating an intuitive and meaningful user experience
+through high-fidelity prototypes.
+
 ## 2. Team
 
 Alex Sáez - Interface designer

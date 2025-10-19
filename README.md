@@ -79,6 +79,17 @@ Here, the navigation flow illustrates how our app works, allowing users to regis
 
 ## 6. Skeleton
 ### 6.1. Low-Fi Wireframes
+The wireframes developed for this project provide an initial overview of the app structure and core visual organization for Book ‘n deal main functionalities. Navigation across screens is designed to be intuitive, allowing users to move seamlessly between searching for books, managing their profile, publishing new book listings, and initiating chats with other users.
+
+In early iterations, wireframes were grouped into five key interface categories:
+Book search and available listings.
+User profile management and ranking.
+Book publication.
+Chat/messaging system.
+Registration and login flow.
+
+A workspace containing the full set of low-fidelity wireframes is available, showcasing initial screen layouts and user journeys from onboarding to key interactions like book exchange, profile editing, and conversations. As the app concept progressed, multiple interface details such as book filters, recommendations, and ranking features were refined to better address user needs and streamline navigation for both new and returning users.
+
 
 ## 7. Surface
 ### 7.1. Interface Evolution

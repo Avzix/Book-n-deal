@@ -101,4 +101,8 @@ A workspace containing the full set of low-fidelity wireframes is available, sho
 ### 7.1. Interface Evolution
 ### 7.2. High Definition Interfaces
 
+📄[Hi-Fi Interfaces - Book 'n deal (PDF)](https://github.com/user-attachments/files/22993228/Mockup.pdf)
+
+
+
 

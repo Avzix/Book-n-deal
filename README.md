@@ -56,6 +56,10 @@ engaging, and truly user-centered.
 ![Persona 3](https://github.com/user-attachments/assets/efc5a012-41cd-47d8-9303-b68f063fa113)
 
 ### 3.3. Benchmarking
+Analyzing platforms such as BookMooch, Librologia, PaperbackSwap, and ReLibrea helped us identify which features are most useful to users and which create confusion or difficulty. 
+This allowed us to decide which functionalities to include, enhance, or remove in our application, creating a more intuitive and engaging experience tailored to the real 
+needs of readers, students, and teachers looking to exchange or donate books.
+
 ![Benchmark](https://github.com/user-attachments/assets/22d3848d-5a81-4a6a-a3f1-291e67fefaff)
 
 ## 4. Scope
@@ -63,6 +67,10 @@ engaging, and truly user-centered.
 
 ## 5. Structure
 ### 5.1. Navigation Flow
+The navigation flow shows how users interact with the application and how different screens and interfaces are connected. 
+It helps ensure the experience is clear, intuitive, and efficient, making it easier for users to find and use key features without confusion.
+Here, the navigation flow illustrates how our app works, allowing users to register and log in, publish a book, chat with other users, and view their own profile.
+
 ![Navigation Flow](https://github.com/user-attachments/assets/7a060dbe-37c0-4f6f-ac56-f5b23f423e85)
 
 ## 6. Skeleton

@@ -92,6 +92,8 @@ Registration and login flow.
 A workspace containing the full set of low-fidelity wireframes is available, showcasing initial screen layouts and user journeys from onboarding to key interactions like book exchange, profile editing, and conversations. As the app concept progressed, multiple interface details such as book filters, recommendations, and ranking features were refined to better address user needs and streamline navigation for both new and returning users.
 
 📁 [Wireframes Workspace – Book ‘n deal (Figma)](https://www.figma.com/design/U2er2Xon98XUqjHD79flx4/Wireframe-UX?node-id=0-1&t=t0CqzL2YUjkW08N8-1)
+📄 [Low-Fi Wireframes – Book 'n deal (PDF)](https://github.com/Avzix/Book-n-deal/blob/Readme-W.I.P/Wireframe%20Book%20'n%20Deal.pdf)
+
 
 
 

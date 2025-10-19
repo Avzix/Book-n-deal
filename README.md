@@ -117,7 +117,7 @@ Navigation and key features such as book search, profile management, book public
 
 ### 7.2. High Definition Interfaces
 
-📄[Hi-Fi Interfaces - Book 'n deal (PDF)](https://github.com/user-attachments/files/22993228/Mockup.pdf)
+📄[Hi-Fi Interfaces - Book 'n deal (PDF)]([https://github.com/user-attachments/files/22993228/Mockup.pdf](https://github.com/Avzix/Book-n-deal/blob/Readme-W.I.P/Mockup.pdf))
 
 
 

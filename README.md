@@ -99,9 +99,20 @@ A workspace containing the full set of low-fidelity wireframes is available, sho
 
 ## 7. Surface
 ### 7.1. Interface Evolution
-The interface evolution process for Book 'n Deal involved key modifications to streamline user experience and align with the core goals of the app. Initially, interfaces included a registration and login flow. However, during the design refinement, the registration process was simplified to reduce friction and encourage faster onboarding, reflecting feedback that complicated sign-ups discourage users.  
+The interface evolution process for Book 'n Deal included significant refinements aimed at simplifying the user experience and enhancing engagement. Initially, a dedicated book exchange section was planned. However, this was ultimately discarded in favor of enabling users to negotiate exchanges directly through the chat functionality. This change was motivated by the belief that personal communication would allow users greater freedom and flexibility to decide whether and how to exchange their books.
 
-<img width="1665" height="956" alt="Sin título" src="https://github.com/user-attachments/assets/9d1e303d-b902-43d8-9502-fd92ab0834be" />
+Additionally, the ranking system was incorporated later in the design process to motivate user participation and reward active contributors. Throughout the progression from low-fidelity wireframes to high-fidelity prototypes, interface improvements were made to margins, spacing, and overall visual clarity to optimize usability.
+
+Navigation and key features such as book search, profile management, book publication, and messaging were refined to foster an intuitive flow and smooth transitions. The evolution reflects a user-centered approach prioritizing simplicity, flexible communication, and community building, balancing functionality with ease of use to create a welcoming and effective platform for book sharing and interaction.
+
+<img width="1665" height="956" alt="Acceso" src="https://github.com/user-attachments/assets/9d1e303d-b902-43d8-9502-fd92ab0834be" />
+<img width="1656" height="956" alt="Feed y crear publicacion" src="https://github.com/user-attachments/assets/b5dd4d05-9f0a-44a7-8dfd-9f0744b70bc5" />
+<img width="1675" height="956" alt="Chats" src="https://github.com/user-attachments/assets/7f17e078-092c-406e-9874-4044bc65f00b" />
+<img width="1664" height="956" alt="Perfil" src="https://github.com/user-attachments/assets/d3aaf6a3-3cc4-42c3-9fd0-0ac41d34186c" />
+<img width="1677" height="956" alt="Busqueda" src="https://github.com/user-attachments/assets/dd2319ab-e908-443b-bc36-4534388bee25" />
+<img width="440" height="956" alt="Ranking" src="https://github.com/user-attachments/assets/c1248034-81ad-41cf-97cf-3b6e4b684221" />
+
+
 
 
 ### 7.2. High Definition Interfaces

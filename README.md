@@ -37,8 +37,6 @@ Book’n Deal is a mobile application designed to facilitate the exchange and do
 
 ## 3. Strategy
 ### 3.1. Value Proposition Canvas
-![Value proposition canvas](https://github.com/user-attachments/assets/3e7315c0-5477-4487-bae0-8357b61a6eb5)
-
 The Value Proposition Canvas served as a key tool to align our understanding of users with the project’s objectives.
 It helped visualize what users truly value — not only functional benefits such as easily obtaining books, 
 but also emotional aspects like belonging to a community and contributing to sustainability.
@@ -46,14 +44,16 @@ This process revealed that users are motivated by collaboration and shared learn
 As a result, the app’s value proposition focuses on connection, accessibility, and environmental impact, 
 creating a meaningful experience that goes beyond a simple exchange platform.
 
-### 3.2. UIX Persona
-<img width="1920" height="1080" alt="persona1" src="https://github.com/user-attachments/assets/7ab204ad-ae0e-40d2-80e9-9fc36f0aba91" />
-<img width="1920" height="1080" alt="persona2" src="https://github.com/user-attachments/assets/6b104630-a10b-434e-8255-2bb1c9700849" />
-<img width="1920" height="1080" alt="persona3" src="https://github.com/user-attachments/assets/efc5a012-41cd-47d8-9303-b68f063fa113" />
+![Value proposition canvas](https://github.com/user-attachments/assets/3e7315c0-5477-4487-bae0-8357b61a6eb5)
 
+### 3.2. UIX Persona
 UX Personas allow us to understand the needs, goals, and frustrations of our users. By visualizing these profiles, 
 we can make informed design decisions, prioritize key features, and create an experience that is intuitive, 
 engaging, and truly user-centered.
+
+![Persona 1](https://github.com/user-attachments/assets/7ab204ad-ae0e-40d2-80e9-9fc36f0aba91)
+![Persona 2](https://github.com/user-attachments/assets/6b104630-a10b-434e-8255-2bb1c9700849)
+![Persona 3](https://github.com/user-attachments/assets/efc5a012-41cd-47d8-9303-b68f063fa113)
 
 ### 3.3. Benchmarking
 ![Benchmark](https://github.com/user-attachments/assets/22d3848d-5a81-4a6a-a3f1-291e67fefaff)

@@ -22,10 +22,10 @@ UX project carried out by UFRO students
 
 ## 1. Introduction
 ### 1.1. The Problem
-In many communities, a significant number of books remain unused or forgotten on personal shelves, while others struggle to access affordable or diverse reading materials. This imbalance limits the circulation of knowledge and restricts readers’ opportunities to discover new authors or genres. Additionally, the lack of accessible platforms that encourage interaction among readers contributes to the underutilization of existing literary resources and reduces engagement within the reading community.
+In many communities, a significant number of books remain unused or forgotten on personal shelves, while others struggle to access affordable or diverse reading materials. This imbalance limits the circulation of knowledge and restricts readers’ opportunities to discover new authors or genres. Furthermore, the lack of accessible platforms that foster interaction among readers contributes to the underutilization of existing literary resources and reduces engagement within the reading community.
 
 ### 1.2. The Solution
-Book’n Deal is a mobile application designed to facilitate the exchange and donation of books among users. The platform allows individuals to publish books they wish to share, explore available titles, and connect directly with other readers through an integrated chat system. By promoting book reuse and community interaction, the app encourages sustainable reading habits and knowledge sharing.
+Book’n Deal is a mobile application designed to facilitate the exchange and donation of books among users. The platform enables individuals to publish books they wish to share, explore available titles, and connect directly with other readers through an integrated chat system. By promoting book reuse and community interaction, the app encourages sustainable reading habits and the free exchange of knowledge.
 
 ## 2. Team
 

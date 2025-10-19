@@ -64,6 +64,8 @@ needs of readers, students, and teachers looking to exchange or donate books.
 
 ## 4. Scope
 ### 4.1. Customer Journey Map
+The customer journey map illustrates how users experience the platform at each stage, from discovering it for the first time to becoming engaged community members. 
+By mapping customer actions, channels, pain points, opportunities, and emotions, it guides improvements and helps deliver a valuable and engaging journey, encouraging users to return and promote the app.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8533566a-2ec5-436d-8a4f-674bf7736482" />
 
 

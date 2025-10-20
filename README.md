@@ -117,9 +117,16 @@ Navigation and key features such as book search, profile management, book public
 
 ### 7.2. High Definition Interfaces
 
+The high-fidelity interfaces for Book ‘n deal presents a polished, user-friendly design that reflects the core functionalities and improved visual identity of the app. These interfaces highlight a clear and inviting login and registration flow, intuitive navigation, and a consistent use of colors and icons aligned with the brand.
+
+Key screens include the home feed with book listings, user profile and ranking pages, detailed book publication options, chat conversations for direct communication, and advanced search features with filters and recommendations. Each screen balances aesthetics and functionality, prioritizing ease of use and clear information hierarchy.
+
+The design showcases thoughtful spacing, typography, and interactive elements that enhance readability and engagement. The chat interface encourages user interaction, while the ranking and profile sections foster a sense of community and motivation.
+
 <img width="2379" height="2001" alt="Hi-fi interfaces" src="https://github.com/user-attachments/assets/3ff9330a-8578-4110-80cd-fd2790111add" />
 
 
+📁 [Hi-Fi Interfaces Workspace – Book ‘n deal (Figma)](https://www.figma.com/design/PBDzeeXKfj0zfJreIn882i/Book--n-Deal-UX?node-id=0-1&t=5kYdHIPAhcwvRj6m-1) 
 📄 [Hi-Fi Interfaces - Book 'n deal (PDF)](https://github.com/Avzix/Book-n-deal/blob/Readme-W.I.P/Mockup.pdf)
 
 

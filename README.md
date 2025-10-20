@@ -126,7 +126,8 @@ The design showcases thoughtful spacing, typography, and interactive elements th
 <img width="2379" height="2001" alt="Hi-fi interfaces" src="https://github.com/user-attachments/assets/3ff9330a-8578-4110-80cd-fd2790111add" />
 
 
-📁 [Hi-Fi Interfaces Workspace – Book ‘n deal (Figma)](https://www.figma.com/design/PBDzeeXKfj0zfJreIn882i/Book--n-Deal-UX?node-id=0-1&t=5kYdHIPAhcwvRj6m-1) 
+📁 [Hi-Fi Interfaces Workspace – Book ‘n deal (Figma)](https://www.figma.com/design/PBDzeeXKfj0zfJreIn882i/Book--n-Deal-UX?node-id=0-1&t=5kYdHIPAhcwvRj6m-1)   
+
 📄 [Hi-Fi Interfaces - Book 'n deal (PDF)](https://github.com/Avzix/Book-n-deal/blob/Readme-W.I.P/Mockup.pdf)
 
 

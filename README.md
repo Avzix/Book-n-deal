@@ -105,15 +105,9 @@ Additionally, the ranking system was incorporated later in the design process to
 
 Navigation and key features such as book search, profile management, book publication, and messaging were refined to foster an intuitive flow and smooth transitions. The evolution reflects a user-centered approach prioritizing simplicity, flexible communication, and community building, balancing functionality with ease of use to create a welcoming and effective platform for book sharing and interaction.
 
-<img width="1665" height="956" alt="Acceso" src="https://github.com/user-attachments/assets/9d1e303d-b902-43d8-9502-fd92ab0834be" />
 <img width="1663" height="956" alt="feed y publicar" src="https://github.com/user-attachments/assets/094320c0-279c-44e1-bebe-f88cb7d96825" />
-<img width="1675" height="956" alt="Chats" src="https://github.com/user-attachments/assets/7f17e078-092c-406e-9874-4044bc65f00b" />
 <img width="1664" height="956" alt="Perfil" src="https://github.com/user-attachments/assets/d3aaf6a3-3cc4-42c3-9fd0-0ac41d34186c" />
 <img width="1677" height="956" alt="Busqueda" src="https://github.com/user-attachments/assets/dd2319ab-e908-443b-bc36-4534388bee25" />
-<img width="440" height="956" alt="Ranking" src="https://github.com/user-attachments/assets/c1248034-81ad-41cf-97cf-3b6e4b684221" />
-
-
-
 
 ### 7.2. High Definition Interfaces
 
@@ -123,12 +117,11 @@ Key screens include the home feed with book listings, user profile and ranking p
 
 The design showcases thoughtful spacing, typography, and interactive elements that enhance readability and engagement. The chat interface encourages user interaction, while the ranking and profile sections foster a sense of community and motivation.
 
-<img width="2379" height="2001" alt="Hi-fi interfaces" src="https://github.com/user-attachments/assets/3ff9330a-8578-4110-80cd-fd2790111add" />
-
-
 📁 [Hi-Fi Interfaces Workspace – Book ‘n deal (Figma)](https://www.figma.com/design/PBDzeeXKfj0zfJreIn882i/Book--n-Deal-UX?node-id=0-1&t=5kYdHIPAhcwvRj6m-1)    
 📁 [Hi-Fi Prototype – Book ‘n deal (Figma)](https://www.figma.com/proto/PBDzeeXKfj0zfJreIn882i/Book--n-Deal-UX?node-id=52-74&p=f&t=0Io5WNMkuUpCmdHD-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=52%3A74)  
 📄 [Hi-Fi Interfaces - Book 'n deal (PDF)](https://github.com/Avzix/Book-n-deal/blob/Readme-W.I.P/Mockup.pdf)
+
+<img width="2379" height="2001" alt="Hi-fi interfaces" src="https://github.com/user-attachments/assets/3ff9330a-8578-4110-80cd-fd2790111add" />
 
 
 

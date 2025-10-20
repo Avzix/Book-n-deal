@@ -127,7 +127,8 @@ The design showcases thoughtful spacing, typography, and interactive elements th
 
 
 📁 [Hi-Fi Interfaces Workspace – Book ‘n deal (Figma)](https://www.figma.com/design/PBDzeeXKfj0zfJreIn882i/Book--n-Deal-UX?node-id=0-1&t=5kYdHIPAhcwvRj6m-1)    
-📁 [Hi-Fi Prototype – Book ‘n deal (Figma)](https://www.figma.com/proto/PBDzeeXKfj0zfJreIn882i/Book--n-Deal-UX?node-id=52-74&p=f&t=0Io5WNMkuUpCmdHD-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=52%3A74)
+📁 [Hi-Fi Prototype – Book ‘n deal (Figma)](https://www.figma.com/proto/PBDzeeXKfj0zfJreIn882i/Book--n-Deal-UX?node-id=52-74&p=f&t=0Io5WNMkuUpCmdHD-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=52%3A74)  
+
 📄 [Hi-Fi Interfaces - Book 'n deal (PDF)](https://github.com/Avzix/Book-n-deal/blob/Readme-W.I.P/Mockup.pdf)
 
 

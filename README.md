@@ -118,7 +118,42 @@ Navigation and key features such as book search, profile management, book public
 <img width="1664" height="956" alt="Perfil" src="https://github.com/user-attachments/assets/d3aaf6a3-3cc4-42c3-9fd0-0ac41d34186c" />
 <img width="1677" height="956" alt="Busqueda" src="https://github.com/user-attachments/assets/dd2319ab-e908-443b-bc36-4534388bee25" />
 
-### 7.2. High Definition Interfaces
+### 7.2. Results of the Heuristic Evaluation
+The heuristic evaluation conducted on the interfaces revealed several design aspects that could be optimized to enhance the overall user experience. During the analysis, certain issues were identified that affected the clarity of specific elements, the visual consistency across screens, and the ease with which user could understand and progress through the flow. Additionally, some interactions were found to be not entirely intuitive or to lack sufficient feedback.
+
+##
+
+|       Problem       |       Solution          |  
+|---------------------|-------------------------|
+| The lack of accents and the very small font size make the text difficult to read, giving it an unprofessional appearance and creating visual tension. | The spelling and accent marks in certain words were corrected, and the font size was adjusted to improve readability and overall visibility |
+
+(Aqui añadir imagenes uno que muestre el problema y el otro la solucion, quizas debamos seleccionar partes especificas de las interfaces para indicar donde esta el problema y donde hicimos la solucion)
+
+##
+
+|       Problem       |       Solution          |  
+|---------------------|-------------------------|
+| In the chat view, it is not possible to see whether a message has been read, nor the time and date of the conversation. | The time a message was sent was added, along with the ability to see whether a message has been read. |
+
+(Aqui añadir imagenes uno que muestre el problema y el otro la solucion, quizas debamos seleccionar partes especificas de las interfaces para indicar donde esta el problema y donde hicimos la solucion)
+
+##
+
+|       Problem       |       Solution          |  
+|---------------------|-------------------------|
+| The buttoms labeled "Agregar Foto" do not clearly communicate the expected action. There is no preview or placeholder indicating the type of input required, is unclear how many images can be uploaded | The button "Añadir foto" and the image were combined into a single element, and the maximum number of images that can be uploaded is now indicated |
+
+(Aqui añadir imagenes uno que muestre el problema y el otro la solucion, quizas debamos seleccionar partes especificas de las interfaces para indicar donde esta el problema y donde hicimos la solucion)
+
+##
+|       Problem       |       Solution          |  
+|---------------------|-------------------------|
+| When attempting to publish a book, there is no indication of the publication status. After pressing the publish button, the user is redirected to the main feed without any feedback confirming whether the publication was sucessfully created or not. | A new interface was added: when attempting to publish a book, a popup appears to confirm the action and inform the user that the publication was sucessfully created. After the confirmation, the user is then redirected back to the main feed. |
+
+(Aqui añadir imagenes uno que muestre el problema y el otro la solucion, quizas debamos seleccionar partes especificas de las interfaces para indicar donde esta el problema y donde hicimos la solucion)
+
+
+### 7.3. High Definition Interfaces
 
 The high-fidelity interfaces for Book ‘n deal presents a polished, user-friendly design that reflects the core functionalities and improved visual identity of the app. These interfaces highlight a clear and inviting login and registration flow, intuitive navigation, and a consistent use of colors and icons aligned with the brand.
 

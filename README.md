@@ -168,6 +168,11 @@ The design showcases thoughtful spacing, typography, and interactive elements th
 <img width="2379" height="2001" alt="Hi-fi interfaces" src="https://github.com/user-attachments/assets/3ff9330a-8578-4110-80cd-fd2790111add" />
 
 
+### 7.4. New changes and features
+Due to multiple rounds of feedback on our high-fidelity interfaces, several changes were made and new elements were added to make the app’s flow smoother and less abrupt. 
+New sections were introduced to better complement existing interfaces, reduce information overload, and distribute content more effectively across the application.
+
+
 
 
 

@@ -172,11 +172,20 @@ The design showcases thoughtful spacing, typography, and interactive elements th
 Due to multiple rounds of feedback on our high-fidelity interfaces, several changes were made and new elements were added to make the app’s flow smoother and less abrupt. 
 New sections were introduced to better complement existing interfaces, reduce information overload, and distribute content more effectively across the application.
 
+### 7.4.1 New Changes
+
 ## Login / Register
 
 |       Before        |       After             |  
 |---------------------|-------------------------|
 | ![inicio-registro(before)](https://github.com/user-attachments/assets/2bd0732a-6295-4c4e-82ce-679d1960416a) | ![inicio-registro(after)](https://github.com/user-attachments/assets/4a465dfd-2b5d-462e-b718-6e33c81c0758) |
+
+To address the lack of clear error feedback in the login and registration interfaces, several improvements were implemented. Informative placeholders were added to guide users on the expected input format, reducing confusion and helping prevent incorrect submissions.
+
+In the registration form, password security requirements were made explicit, including a clearly stated minimum of 6 characters. This ensures users understand the criteria before attempting to create an account, reducing frustration and failed attempts.
+
+As a result of these enhancements, users now receive clearer guidance throughout the process, improving overall usability, reducing registration errors, and supporting a smoother, more intuitive experience 
+that aligns with heuristic best practices for error prevention and communication.
 
 
 ## Feed
@@ -185,11 +194,26 @@ New sections were introduced to better complement existing interfaces, reduce in
 |---------------------|-------------------------|
 | ![feed(before)](https://github.com/user-attachments/assets/7037c860-1d43-478e-b519-4d2a74209479) |   ![feed(after)_1](https://github.com/user-attachments/assets/b0bc29ba-1a88-4d5c-8707-cb12ea72545a) ![feedbef2](https://github.com/user-attachments/assets/69142a54-214d-4a21-bfe0-03cff431dff2) |
 
+To address the lack of visual hierarchy and structural clarity in the main feed interface—where users browse published books and view publication details—several refinements were introduced.
+The comments section was removed to create a cleaner and more focused layout. This reduction of unnecessary visual noise helps users concentrate on the essential elements of each publication, improving readability and overall flow.
+
+Additionally, publication tabs were incorporated to organize content more effectively. 
+These tabs provide clear navigation points that separate different types of information, making it easier for users to discover, browse, and understand each section without feeling overwhelmed.
+
+
 ## Profile 
 
 |       Before        |       After             |  
 |---------------------|-------------------------|
 | ![perfil-conf(before)](https://github.com/user-attachments/assets/f62a1dfa-1eea-4c62-bda8-ea649c13477f) | ![perfil-conf(after)](https://github.com/user-attachments/assets/0920e1c8-ec37-406c-925d-edd14ad6b50b) |
+
+To address accessibility limitations and weak visual contrast in the profile and settings interfaces, several key improvements were applied.
+A dedicated settings frame was introduced to centralize account and preference management. This structure helps users locate options more quickly and reduces the effort required to navigate between different configuration areas.
+
+The Edit Profile interface was also redesigned, incorporating a stronger visual hierarchy, clearer spacing, and more readable elements. 
+These changes ensure that users can easily identify editable fields, understand available actions, and make updates with greater confidence.
+
+Then, both accessibility and user control have been significantly enhanced, providing a more inclusive experience and enabling users to manage their profiles and settings more efficiently.
 
 
 ## Book Publishing
@@ -198,6 +222,13 @@ New sections were introduced to better complement existing interfaces, reduce in
 |---------------------|-------------------------|
 | ![publicar(before)](https://github.com/user-attachments/assets/11b398f8-6117-4b8d-802d-7eafa97782ff) | ![publicar(after)](https://github.com/user-attachments/assets/66578e4d-d164-46a8-8dc0-c56347ea3d29) |
 
+To improve the clarity and reliability of the book publication process, the interface was redesigned to reduce user errors and provide more structured guidance throughout the workflow.
+
+The input process was streamlined by simplifying the required fields, making the initial data entry less overwhelming and easier to complete. This reduces cognitive load and minimizes the likelihood of incomplete or incorrect submissions.
+A new AI-powered photo detection feature was incorporated, allowing users to upload a cover image or an ISBN photo. The system automatically extracts and fills in the book information, significantly speeding up the process and reducing manual input.
+
+To ensure accuracy, a dedicated Data Validation interface was added. Here, users can review the auto-detected details, correct any errors, and confirm the information before publishing. 
+This step not only prevents inaccurate entries but also supports more consistent data across the platform—especially important for book donation or exchange workflows.
 
 ## Chats
 
@@ -205,6 +236,14 @@ New sections were introduced to better complement existing interfaces, reduce in
 |---------------------|-------------------------|
 | ![chats(before)](https://github.com/user-attachments/assets/5f235ab5-8dc4-412a-8d27-9d3f2037330f) | ![chat(after)](https://github.com/user-attachments/assets/f0de33b5-ade3-445a-8656-a91f00aef18a) |
 
+To improve communication clarity and ensure users receive proper feedback during interactions, several enhancements were applied to both the chat list and the in-chat interface.
+
+Message timestamps and read receipts were introduced, using a simple visual code: a green checkmark indicates that a message has been read, while a gray checkmark represents an unread message. 
+This addition provides users with immediate confirmation of message status, reducing uncertainty and improving the sense of responsiveness.
+
+An Exchange Section Tab was added to centralize all ongoing exchanges, allowing users to quickly access conversations related specifically to book trades or donations. 
+This organizational structure helps streamline navigation and keeps related interactions grouped together.
+The chat list itself was reorganized to group conversations by exchange, making it easier for users to locate the correct chat without confusion—especially when managing multiple interactions simultaneously.
 
 ## Ranking
 
@@ -212,6 +251,10 @@ New sections were introduced to better complement existing interfaces, reduce in
 |---------------------|-------------------------|
 | ![ranking(before)](https://github.com/user-attachments/assets/c110910e-950c-418e-9d35-ef5bb2af51f5) ![ranking(before)_2](https://github.com/user-attachments/assets/4f69839a-86ed-4d2d-b48a-e1c78c760add) | ![ranking(after)](https://github.com/user-attachments/assets/ba99739a-1857-41c3-9e60-b89c583186c3) |
 
+To improve clarity and reduce unnecessary visual noise in the ranking interface, the likes/dislikes system was removed, eliminating subjective or unclear rating signals. 
+In its place, a points-based ranking was implemented, using objective metrics such as books published, successful exchanges or donations, and user evaluations.
+
+The ranking interface becomes more visually consistent, easier to interpret, and more motivating for users, while maintaining a clean and accessible design.
 
 ## Search
 
@@ -219,7 +262,10 @@ New sections were introduced to better complement existing interfaces, reduce in
 |---------------------|-------------------------|
 | ![busqueda(before)](https://github.com/user-attachments/assets/86feacb4-417b-4510-9060-7e3bb7a9e5b4) | ![busqueda(after)](https://github.com/user-attachments/assets/a3a9feb2-aa36-4435-9dbc-3f5570dd5cce) |
 
+To address confusion caused by unclear icons and labels in the search interface, an advanced filter system was introduced. 
+This system uses clear, well-labeled checkboxes for condition, language, and genre, allowing users to refine their searches with greater precision and confidence.
 
+Additionally, a Recent Searches section was added to provide quick access to previously used queries, helping users repeat or adjust past searches without re-entering all the information.
 
 
 

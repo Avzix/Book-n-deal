@@ -20,7 +20,8 @@ UX project carried out by UFRO students
   - [7.1. Interface Evolution](#71-interface-evolution)
   - [7.2. Results of the Heuristic Evaluation](#72-results-of-the-heuristic-evaluation)
   - [7.3. High Definition Interfaces](#73-high-definition-interfaces)
-  - [7.4. New changes and features](#74-new-changes-and-features)
+  - [7.4. New changes](#74-new-changes)
+  - [7.5. Accessibility topics](#75-accessibility-topics)
 
 ## 1. Introduction
 ### 1.1. The Problem
@@ -168,7 +169,7 @@ The design showcases thoughtful spacing, typography, and interactive elements th
 <img width="2379" height="2001" alt="Hi-fi interfaces" src="https://github.com/user-attachments/assets/3ff9330a-8578-4110-80cd-fd2790111add" />
 
 
-### 7.4. New changes and features
+### 7.4. New changes
 Due to multiple rounds of feedback on our high-fidelity interfaces, several changes were made and new elements were added to make the app’s flow smoother and less abrupt. 
 New sections were introduced to better complement existing interfaces, reduce information overload, and distribute content more effectively across the application.
 
@@ -264,6 +265,16 @@ To address confusion caused by unclear icons and labels in the search interface,
 This system uses clear, well-labeled checkboxes for condition, language, and genre, allowing users to refine their searches with greater precision and confidence.
 
 Additionally, a Recent Searches section was added to provide quick access to previously used queries, helping users repeat or adjust past searches without re-entering all the information.
+
+### 7.5. Accessibility topics
+
+Visual contrast and readability: Adjustments were made to the contrast of the navigation bar, buttons, and typography, following the heuristic recommendations (with “Low accessibility and visual contrast” identified as a critical issue). 
+The proposed solutions include improved color choices, larger text sizes, and proper spacing between elements to support users with different accessibility needs.
+
+Larger and well-spaced buttons: To ensure better touch interaction, the issue of “Buttons placed too closely together” was addressed. 
+The updated interfaces now provide clear layouts with sufficiently large touch areas, aligning with heuristic accessibility guidelines.
+
+These improvements aim to make the experience usable and accessible for the majority of users, including those with visual or motor difficulties, and directly reflect the response to the heuristic evaluation as well as basic web and mobile accessibility standards.
 
 
 

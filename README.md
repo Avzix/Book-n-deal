@@ -18,7 +18,9 @@ UX project carried out by UFRO students
   - [6.1. Low-Fi Wireframes](#61-low-fi-wireframes)
 - [7. Surface](#7-surface)
   - [7.1. Interface Evolution](#71-interface-evolution)
-  - [7.2. High Definition Interfaces](#72-high-definition-interfaces)
+  - [7.2. Results of the Heuristic Evaluation](#72-results-of-the-heuristic-evaluation)
+  - [7.3. High Definition Interfaces](#73-high-definition-interfaces)
+  - [7.4. New changes and features](#74-new-changes-and-features)
 
 ## 1. Introduction
 ### 1.1. The Problem

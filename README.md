@@ -174,42 +174,49 @@ New sections were introduced to better complement existing interfaces, reduce in
 
 |       Before        |       After             |  
 |---------------------|-------------------------|
-
+| ![inicio-registro(before)](https://github.com/user-attachments/assets/2bd0732a-6295-4c4e-82ce-679d1960416a) | ![inicio-registro(after)](https://github.com/user-attachments/assets/4a465dfd-2b5d-462e-b718-6e33c81c0758) |
 
 
 ## Feed
 
 |       Before        |       After             |  
 |---------------------|-------------------------|
-
+| ![feed(before)](https://github.com/user-attachments/assets/7037c860-1d43-478e-b519-4d2a74209479) |   ![feed(after)_1](https://github.com/user-attachments/assets/b0bc29ba-1a88-4d5c-8707-cb12ea72545a) ![feedbef2](https://github.com/user-attachments/assets/69142a54-214d-4a21-bfe0-03cff431dff2) |
 
 ## Profile 
 
 |       Before        |       After             |  
 |---------------------|-------------------------|
+| ![perfil-conf(before)](https://github.com/user-attachments/assets/f62a1dfa-1eea-4c62-bda8-ea649c13477f) | ![perfil-conf(after)](https://github.com/user-attachments/assets/0920e1c8-ec37-406c-925d-edd14ad6b50b) |
 
 
 ## Book Publishing
 
 |       Before        |       After             |  
 |---------------------|-------------------------|
+| ![publicar(before)](https://github.com/user-attachments/assets/11b398f8-6117-4b8d-802d-7eafa97782ff) | ![publicar(after)](https://github.com/user-attachments/assets/66578e4d-d164-46a8-8dc0-c56347ea3d29) |
 
 
 ## Chats
 
 |       Before        |       After             |  
 |---------------------|-------------------------|
+| ![chats(before)](https://github.com/user-attachments/assets/5f235ab5-8dc4-412a-8d27-9d3f2037330f) | ![chat(after)](https://github.com/user-attachments/assets/f0de33b5-ade3-445a-8656-a91f00aef18a) |
 
 
 ## Ranking
 
 |       Before        |       After             |  
 |---------------------|-------------------------|
+| ![ranking(before)](https://github.com/user-attachments/assets/c110910e-950c-418e-9d35-ef5bb2af51f5) ![ranking(before)_2](https://github.com/user-attachments/assets/4f69839a-86ed-4d2d-b48a-e1c78c760add) | ![ranking(after)](https://github.com/user-attachments/assets/ba99739a-1857-41c3-9e60-b89c583186c3) |
+
 
 ## Search
 
 |       Before        |       After             |  
 |---------------------|-------------------------|
+| ![busqueda(before)](https://github.com/user-attachments/assets/86feacb4-417b-4510-9060-7e3bb7a9e5b4) | ![busqueda(after)](https://github.com/user-attachments/assets/a3a9feb2-aa36-4435-9dbc-3f5570dd5cce) |
+
 
 
 

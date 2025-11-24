@@ -126,31 +126,29 @@ The heuristic evaluation conducted on the interfaces revealed several design asp
 |       Problem       |       Solution          |  
 |---------------------|-------------------------|
 | The lack of accents and the very small font size make the text difficult to read, giving it an unprofessional appearance and creating visual tension. | The spelling and accent marks in certain words were corrected, and the font size was adjusted to improve readability and overall visibility |
-
-(Aqui añadir imagenes uno que muestre el problema y el otro la solucion, quizas debamos seleccionar partes especificas de las interfaces para indicar donde esta el problema y donde hicimos la solucion)
+| ![inicio-registro(before)](https://github.com/user-attachments/assets/ad242ede-d131-485c-b60c-03996ed96535) | ![inicio-registro(after)](https://github.com/user-attachments/assets/e8fa51f5-fdd4-4ca1-8acb-c46fa98ad07b) |
 
 ##
 
 |       Problem       |       Solution          |  
 |---------------------|-------------------------|
 | In the chat view, it is not possible to see whether a message has been read, nor the time and date of the conversation. | The time a message was sent was added, along with the ability to see whether a message has been read. |
-
-(Aqui añadir imagenes uno que muestre el problema y el otro la solucion, quizas debamos seleccionar partes especificas de las interfaces para indicar donde esta el problema y donde hicimos la solucion)
+| ![heuristic-2(before)](https://github.com/user-attachments/assets/6d330fcb-a286-425d-bb69-97a9bf4d8022) | ![heuristic-2(after)](https://github.com/user-attachments/assets/59237d48-28f8-4620-a75f-8693d87fba04) |
 
 ##
 
 |       Problem       |       Solution          |  
 |---------------------|-------------------------|
 | The buttoms labeled "Agregar Foto" do not clearly communicate the expected action. There is no preview or placeholder indicating the type of input required, is unclear how many images can be uploaded | The button "Añadir foto" and the image were combined into a single element, and the maximum number of images that can be uploaded is now indicated |
-
-(Aqui añadir imagenes uno que muestre el problema y el otro la solucion, quizas debamos seleccionar partes especificas de las interfaces para indicar donde esta el problema y donde hicimos la solucion)
+| ![heuristic-3(before)](https://github.com/user-attachments/assets/09742434-6f44-4fd3-9380-04d4d1091505) | ![heuristic-3(after)](https://github.com/user-attachments/assets/691d86db-7c5e-48d5-bae4-52a99ce0f730) |
 
 ##
+
 |       Problem       |       Solution          |  
 |---------------------|-------------------------|
 | When attempting to publish a book, there is no indication of the publication status. After pressing the publish button, the user is redirected to the main feed without any feedback confirming whether the publication was sucessfully created or not. | A new interface was added: when attempting to publish a book, a popup appears to confirm the action and inform the user that the publication was sucessfully created. After the confirmation, the user is then redirected back to the main feed. |
+| ![heuristic-3(before)](https://github.com/user-attachments/assets/ffcfef40-67b8-42db-ab07-64f4069aae31) | ![heuristic-4(after)](https://github.com/user-attachments/assets/8ec9f7fe-1da1-474c-ae67-757335bf301b) |
 
-(Aqui añadir imagenes uno que muestre el problema y el otro la solucion, quizas debamos seleccionar partes especificas de las interfaces para indicar donde esta el problema y donde hicimos la solucion)
 
 
 ### 7.3. High Definition Interfaces
